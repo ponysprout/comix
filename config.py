@@ -1,5 +1,5 @@
-EMAIL = ""
-PASSWORD = ""
+EMAIL = "test"
+PASSWORD = "test"
 DOMAIN = "com"
 
 if (EMAIL == "" or PASSWORD == ""):
